@@ -1,7 +1,7 @@
 {
-    "name": "aurora-launcher-app",
-    "version": "0.0.4",
-    "description": "Launcher for Minecraft",
+    "name": "seiza-launcher-app",
+    "version": "1.0.0",
+    "description": "Launcher for SeizaNetwork Project",
     "main": "build/main/index.js",
     "private": true,
     "scripts": {
@@ -26,9 +26,9 @@
         "type": "git",
         "url": "git+https://github.com/AuroraTeam/Launcher.git"
     },
-    "author": "AuroraTeam",
+    "author": "SeizaTeam",
     "contributors": [
-        "JoCat (https://github.com/JoCat)"
+        "aohiraa (https://github.com/aohiraa)"
     ],
     "license": "MIT",
     "bugs": {
